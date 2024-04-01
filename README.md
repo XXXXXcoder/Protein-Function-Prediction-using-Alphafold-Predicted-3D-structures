@@ -87,15 +87,17 @@ Cite our work
 ---
 if you use the conclusion, code, or data in our work, please cite:
 ```
-@article{ma2022enhancing,
-  title={Enhancing protein function prediction performance by utilizing AlphaFold-predicted protein structures},
-  author={Ma, Wenjian and Zhang, Shugang and Li, Zhen and Jiang, Mingjian and Wang, Shuang and Lu, Weigang and Bi, Xiangpeng and Jiang, Huasen and Zhang, Henggui and Wei, Zhiqiang},
-  journal={Journal of Chemical Information and Modeling},
-  volume={62},
-  number={17},
-  pages={4008--4017},
-  year={2022},
-  publisher={ACS Publications}
-}
+@article{doi:10.1021/acs.jcim.2c00885,
+author = {Ma, Wenjian and Zhang, Shugang and Li, Zhen and Jiang, Mingjian and Wang, Shuang and Lu, Weigang and Bi, Xiangpeng and Jiang, Huasen and Zhang, Henggui and Wei, Zhiqiang},
+title = {Enhancing Protein Function Prediction Performance by Utilizing AlphaFold-Predicted Protein Structures},
+journal = {Journal of Chemical Information and Modeling},
+volume = {62},
+number = {17},
+pages = {4008-4017},
+year = {2022},
+doi = {10.1021/acs.jcim.2c00885},
+note ={PMID: 36006049},
+URL = {https://doi.org/10.1021/acs.jcim.2c00885},
+eprint = {https://doi.org/10.1021/acs.jcim.2c00885}}
 ```
 
