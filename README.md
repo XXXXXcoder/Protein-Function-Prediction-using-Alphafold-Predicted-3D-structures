@@ -1,3 +1,4 @@
+# PDB vs. AF
 Code for paper "Enhancing protein function prediction performance by utilizing AlphaFold-predicted protein structures"
 ---
 
